@@ -1,0 +1,258 @@
+TFirstApp
+v7
+r0
+t355612020.894995
+cCheck dependencies
+cProcessInfoPlistFile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/Info.plist FirstApp-Info.plist
+cCompileXIB /Users/nishithagarwal/Documents/FirstApp/MainWindow.xib
+cCompileXIB /Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib
+cProcessPCH /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch.gch FirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/main.o /Users/nishithagarwal/Documents/FirstApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppAppDelegate.o /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppViewController.o /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp normal i386
+cGenerateDSYMFile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app.dSYM /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp
+cTouch /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.h
+c000000004F81FD4700000000000001E7
+t1333919047
+s487
+i<UIKit/UIKit.h>
+
+N/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m
+c000000004F81FD470000000000000AB1
+t1333919047
+s2737
+i"FirstAppAppDelegate.h"
+i"FirstAppViewController.h"
+
+N/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.h
+c000000004F81FD4700000000000000F3
+t1333919047
+s243
+i<UIKit/UIKit.h>
+
+N/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m
+c000000004F81FD4700000000000005C7
+t1333919047
+s1479
+i"FirstAppViewController.h"
+
+N/Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib
+c000000004F81FD470000000000001A49
+t1333919047
+s6729
+
+N/Users/nishithagarwal/Documents/FirstApp/FirstApp_Prefix.pch
+c000000004F81FD4700000000000000B9
+t1333919047
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nishithagarwal/Documents/FirstApp/MainWindow.xib
+c000000004F81FDB70000000000006711
+t1333919159
+s26385
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app
+t1333919220
+s238
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app.dSYM
+t1333919220
+s102
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp
+t1333919220
+s17132
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstAppViewController.nib
+t1333919219
+s1269
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/Info.plist
+t1333919219
+s595
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/MainWindow.nib
+t1333919220
+s2440
+
+N/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/PkgInfo
+t1333919219
+s8
+
+N/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstApp.LinkFileList
+c000000004F81FDF3000000000000019B
+t1333919219
+s411
+
+N/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppAppDelegate.o
+t1333919220
+s51376
+
+N/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppViewController.o
+t1333919220
+s37972
+
+N/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/main.o
+t1333919220
+s6316
+
+N/Users/nishithagarwal/Documents/FirstApp/main.m
+c000000004F81FD47000000000000016C
+t1333919047
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch.gch
+t1333919220
+s15814064
+
+NFirstApp-Info.plist
+c000000004F81FD47000000000000038D
+t1333919047
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355612019#355612019#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppAppDelegate.o /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355612020.709429
+e355612020.819254
+r1
+xCompileC
+xbuild/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppAppDelegate.o
+x/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m355612020#355612020#0(0"0(0#0#70"/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m8610229312#1994"    cd /Users/nishithagarwal/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-generated-files.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-project-headers.hmap -F/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -I/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/include -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources/i386 -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources -include /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch -c /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppAppDelegate.m -o /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppAppDelegate.o0#
+
+CCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppViewController.o /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355612020.782205
+e355612020.852710
+r1
+xCompileC
+xbuild/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppViewController.o
+x/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m355612020#355612020#0(0"0(0#0#73"/Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m8607116416#2000"    cd /Users/nishithagarwal/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-generated-files.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-project-headers.hmap -F/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -I/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/include -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources/i386 -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources -include /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch -c /Users/nishithagarwal/Documents/FirstApp/Classes/FirstAppViewController.m -o /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstAppViewController.o0#
+
+CCompileC build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/main.o /Users/nishithagarwal/Documents/FirstApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355612020.707443
+e355612020.782108
+r1
+xCompileC
+xbuild/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/main.o
+x/Users/nishithagarwal/Documents/FirstApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/nishithagarwal/Documents/FirstApp/main.m355612020#355612020#0(0"0(0#0#47"/Users/nishithagarwal/Documents/FirstApp/main.m8607471872#1956"    cd /Users/nishithagarwal/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-generated-files.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-project-headers.hmap -F/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -I/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/include -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources/i386 -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources -include /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch -c /Users/nishithagarwal/Documents/FirstApp/main.m -o /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib
+s355612019.571256
+e355612019.942578
+r1
+xCompileXIB
+x/Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib
+lSLF07#2@37"CompileXIB FirstAppViewController.xib355612019#355612019#0(0"0(0#0#67"/Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib8600337824#601"    cd /Users/nishithagarwal/Documents/FirstApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstAppViewController.nib /Users/nishithagarwal/Documents/FirstApp/FirstAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/nishithagarwal/Documents/FirstApp/MainWindow.xib
+s355612019.570124
+e355612020.026819
+r1
+xCompileXIB
+x/Users/nishithagarwal/Documents/FirstApp/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/nishithagarwal/Documents/FirstApp/MainWindow.xib:10: warning: 'First App View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib355612019#355612020#0(226"/* com.apple.ibtool.document.warnings *//Users/nishithagarwal/Documents/FirstApp/MainWindow.xib:10: warning: 'First App View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.1(22@115"'First App View Controller' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.355612020#18446744073709551615#0#0(6@55"/Users/nishithagarwal/Documents/FirstApp/MainWindow.xib355611959#10#0#10#0#0"0(0#0#55"/Users/nishithagarwal/Documents/FirstApp/MainWindow.xib8601030016#577"    cd /Users/nishithagarwal/Documents/FirstApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/MainWindow.nib /Users/nishithagarwal/Documents/FirstApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app.dSYM /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp
+s355612020.877221
+e355612020.892156
+r1
+xGenerateDSYMFile
+x/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app.dSYM
+x/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/FirstApp.app.dSYM build/Debug-iphonesimulator/FirstApp.app/FirstApp355612020#355612020#0(0"0(0#0#90"/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp8609196192#392"    cd /Users/nishithagarwal/Documents/FirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp -o /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app.dSYM0#
+
+CLd /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp normal i386
+s355612020.852848
+e355612020.877121
+r1
+xLd
+x/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp
+xnormal
+xi386
+lSLF07#2@95"Link /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp355612020#355612020#0(0"0(0#0#0"8609802400#915"    cd /Users/nishithagarwal/Documents/FirstApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -F/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -filelist /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/Objects-normal/i386/FirstApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/FirstApp0#
+
+CProcessInfoPlistFile /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/Info.plist FirstApp-Info.plist
+s355612019.566935
+e355612019.570039
+r1
+xProcessInfoPlistFile
+x/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/Info.plist
+xFirstApp-Info.plist
+lSLF07#2@27"Process FirstApp-Info.plist355612019#355612019#0(0"0(0#0#60"/Users/nishithagarwal/Documents/FirstApp/FirstApp-Info.plist31525648366108776#488"    cd /Users/nishithagarwal/Documents/FirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FirstApp-Info.plist -genpkginfo /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app/Info.plist0#
+
+CProcessPCH /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch.gch FirstApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355612020.026961
+e355612020.707349
+r1
+xProcessPCH
+x/var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch.gch
+xFirstApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile FirstApp_Prefix.pch355612020#355612020#0(0"0(0#0#60"/Users/nishithagarwal/Documents/FirstApp/FirstApp_Prefix.pch8607757920#1845"    cd /Users/nishithagarwal/Documents/FirstApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-generated-files.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-own-target-headers.hmap -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-all-target-headers.hmap -iquote /Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/FirstApp-project-headers.hmap -F/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator -I/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/include -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources/i386 -I/Users/nishithagarwal/Documents/FirstApp/build/FirstApp.build/Debug-iphonesimulator/FirstApp.build/DerivedSources -c /Users/nishithagarwal/Documents/FirstApp/FirstApp_Prefix.pch -o /var/folders/z-/z-TdX1d+HISSQJkIwUTonk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FirstApp_Prefix-ccqpufwmrmllkrglvlrgpyxqehea/FirstApp_Prefix.pch.gch0#
+
+CTouch /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app
+s355612020.892246
+e355612020.894952
+r1
+xTouch
+x/Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app
+lSLF07#2@87"Touch /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app355612020#355612020#0(0"0(0#0#0"8606984224#283"    cd /Users/nishithagarwal/Documents/FirstApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nishithagarwal/Documents/FirstApp/build/Debug-iphonesimulator/FirstApp.app0#
+
